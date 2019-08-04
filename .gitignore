@@ -1,0 +1,6 @@
+data
+data/
+db.sqlite3
+*.pkl
+thread_embeddings_by_tags
+thread_embeddings_by_tags/
